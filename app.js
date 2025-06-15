@@ -1,3 +1,5 @@
 function name(params) {
-    console.log(params)
+    if (params == "avinoam"){
+        console.log('the goat')
+    }
 }
